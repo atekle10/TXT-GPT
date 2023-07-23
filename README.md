@@ -1,7 +1,7 @@
 # TXT-GPT
 
 
-TXT-GPT is a natural language processing (NLP) project. It uses OpenAI's GPT models to create a conversational AI agent named 'Cortana', that can interactively answer questions based on the contents of a text file.
+TXT-GPT is a Large Language Model Project. It uses OpenAI's GPT models to create a conversational AI agent named 'Cortana', that can interactively answer questions based on the contents of a text file.
 
 # Description
 

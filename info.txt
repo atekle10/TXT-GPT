@@ -1,0 +1,425 @@
+Because I teach a course on product management at Harvard Business School, I am routinely asked, “What is the role of a product manager?” The role of product manager (PM) is often referred to as the “CEO of the product.” I disagree because, as Martin Eriksson points out, “Product managers simply don’t have any direct authority over most of the things needed to make their products successful — from user and data research through design and development to marketing, sales, and support.” PMs are not the CEO of product, and their roles vary widely depending on a number of factors. So, what should you consider if you’re thinking of pursuing a PM role?
+
+Aspiring PMs should consider three primary factors when evaluating a role: core competencies, emotional intelligence (EQ), and company fit. The best PMs I have worked with have mastered the core competencies, have a high EQ, and work for the right company for them. Beyond shipping new features on a regular cadence and keeping the peace between engineering and the design team, the best PMs create products with strong user adoption that have exponential revenue growth and perhaps even disrupt an industry.
+
+Core Competencies
+
+There are core competencies that every PM must have — many of which can start in the classroom — but most are developed with experience, good role models, and mentoring. Some examples of these competencies include:
+
+conducting customer interviews and user testing
+running design sprints
+feature prioritization and road map planning
+the art of resource allocation (it is not a science!)
+performing market assessments
+translating business-to-technical requirements, and vice versa
+pricing and revenue modeling
+defining and tracking success metrics
+These core competencies are the baseline for any PM, and the best PMs hone these skills over years of defining, shipping, and iterating on products. These PMs excel at reflecting on where each of these competencies have contributed to the success or failure of their products and continuously adjusting their approach based on customer feedback.
+
+Emotional Intelligence
+
+A good PM may know the dos and don’ts of a customer interview, but the best PMs have the ability to empathize with customers in that interview, are tuned in to their body language and emotions, and can astutely suss out the pain points that the product or feature will address. A PM with a high EQ has strong relationships within their organization and a keen sense of how to navigate both internal and external hurdles to ship a great product. Here’s a deeper look at how the four key traits of EQ, as defined by Daniel Goleman, relate to the PM role:
+
+Relationship management. Probably one of the most important characteristics of a great PM is their relationship management skills. By forming authentic and trustworthy connections with both internal and external stakeholders, the best PMs inspire people and help them reach their full potential. Relationship management is also vital in successful negotiation, resolving conflicts, and working with others toward a shared goal, which is especially challenging when a PM is tasked with balancing the needs of customers, resource-constrained engineering teams, and the company’s revenue goals. Authentic and trusting relationships within an organization can lead to more support when additional funding is needed for a product or when an engineer must be swayed to include a quick bug fix in the next sprint. Outside an organization, these skills could encourage existing customers to beta test a new feature for early feedback or to convince a target customer to try the MVP of a product still in stealth mode. These relationship skills can also be what makes the difference between having irate customers because of a bug introduced into the product and those who say, “No worries, we know you’ll fix this!”
+Read more about
+Six Myths of Product Development
+Self-awareness. PMs must be self-aware so as to remain objective and avoid projecting their own preferences onto users of their products. If a PM is in love with a feature because it addresses their own pain points — PMs are often super-users of the products for which they are responsible — they may cause a user to say they love it too, just to please the PM (“false-positive feature validation”). If not self-aware, a PM may push to prioritize a feature they conceived even when all the customer interviews and evidence are stacked against it. This lack of self-awareness could derail more-important priorities or damage the PM’s relationship with engineers, who may lose confidence in their PM when the feature isn’t readily adopted by users. Self-management. Being a PM can be incredibly stressful. The CEO wants one thing, the engineering team another, and customers have their own opinions about feature priorities. Managing tight deadlines, revenue targets, market demands, prioritization conflicts, and resource constraints all at once is not for the faint of heart. If a PM cannot maintain their emotions and keep it cool under pressure, they can quickly lose the confidence of all their constituents. The best PMs know how to push hard on the right priorities, with urgency but without conveying a sense of panic or stress. These PMs also know when to take a breath and step away to regroup. Social awareness. According to Goleman, the competencies associated with being socially aware are empathy, organizational awareness, and service. PMs must understand customers’ emotions and concerns about their product as much as they understand the concerns of the sales team on how to sell that product, or the support team on how to support it, or the engineering team on how to build it. PMs have to have a deep understanding of how the organization operates and must build social capital to influence the success of their product, from obtaining budget and staffing to securing a top engineer to work on their product. Finally, social awareness ensures the best PMs service their customers with a product that addresses their jobs to be done, which is ultimately what drives product-market fit.
+(Read more about what Paul Jackson has to say about EQ and PMs here. And here’s an interview with Sam Lessin, former VP of product management at Facebook, who says he has “never successfully trained empathy.”)
+
+Company Fit
+
+If the best PMs have well-developed core competencies and a high EQ, does that mean they are destined for success no matter where they work? Not necessarily. In fact, taking these skills and personality traits and applying them to the right company is what will ultimately guarantee success.
+
+I have yet to see a standard job description for a product manager, because each role is ultimately defined by the size, type of product, stage, industry, and even culture of the company. If you possess the core competencies and high EQ needed to be a successful PM, the next step is to unpack who’s hiring and what they are truly looking for.
+
+Here are a few of the key areas in which companies differ in what they want from a PM:
+
+Technical skill. The type of product, who uses it, and the type of company will determine how technical a PM needs to be. For example, Google requires PMs to pass a technical skills test regardless of what product they’ll work on. If the company is building a SaaS CRM, there may be more requirements around experience with go-to-market and customer life cycles than around how the product is built. By contrast, if it’s a data science product with machine-learning algorithms and APIs, the role may require a lot more technical depth to not only understand how to build the product but also how to talk credibly with the customers who will use it. That said, having a basic technical understanding of what is under the hood and mastery of the tools that PMs use is definitely important for the role, anywhere it is. Colin Lernell has more to say about these necessary skills here. If you are an aspiring PM and are concerned that you lack the basic tech skills for the role, you might consider taking online courses such as the renowned Introduction to Computer Science (CS50) course offered by Harvard University or one of the many intro and advanced technology courses offered by The Flatiron School. Company philosophy about PM. Every company has a different philosophy about the product development process and where PMs fit into that process. Below are the three most common types, with pros and cons:
+PM drives engineering. This is a “throw it over the wall” approach, where PMs gather requirements, write the quintessential product-requirements document, and hand it off to engineering to spec out the technical requirements. Contemporary organizations may do this process in a more agile and collaborative way, but the expectation is that PMs know best about what customers need and engineering is there to serve.
+Pro: Engineering can focus on coding without a lot of distraction; this tends to work well for waterfall development shops with long life cycles.
+Con: Engineers lose sight of the big picture and do not develop empathy for customers, which can lead to a poor user experience. Often there are unhealthy tensions when technical debt and “plumbing” work needs to be prioritized over customer requirements.
+Engineering drives product. Companies that make more-technically-oriented products (such as cloud, big data, and networking services) tend to be engineering driven; engineers advance the science in their domain and PMs validate solutions or create front-end access points (UIs, APIs) to tap into this new technology. There can be a collaborative relationship and feedback loop between customers, PMs, and engineering, but typically PMs are serving engineering in these companies.
+Pro: Breakthrough technology can offer customers things they didn’t even know they needed. VMotion at VMware was a great example of this. An engineer thought it would be cool to do, a PM figured out how to monetize it, and it became a billion-dollar game changer for the company.
+Con: Engineers chase the shiny new thing, over-architect the solution, or iterate forever, seeking perfection before getting customer feedback. PM input on priorities is ignored, which sometimes includes the most-basic needs of customers.
+The PM-engineering partnership. In these cases, there is a strong yin-yang between PM and engineering, with joint discovery, decision-making, and shared accountability. Engineers join PMs in customer interviews, and PMs are in sprint meetings to help unblock tasks or clarify requirements. But the two roles respect the line where one starts and the other stops. PMs understand what’s being coded but don’t tell engineers how to code, and engineers have empathy for customers’ needs but leave the prioritization to the PMs.
+Pro: A streamlined prioritization process that values technical debt and plumbing projects; better design processes leading to a more positive user experience; higher-performing teams with improved product velocity, quality, and, typically, happier customers.
+Con: Breakthrough innovation may not get greenlit; time-to-market may seem to lag (though I’d argue that what’s released is far better aligned with customer needs and more likely to successfully scale).
+I’m clearly biased in favor of the third type of philosophy about PM (as is venture capitalist Fred Wilson), as I’ve experienced all three and found the yin-yang to be most effective. But that’s not to say the others are notably bad — it really depends on what type of product you’re building, the company stage, and more. Regardless, when considering a PM role, the philosophy of PM at the company could be the deciding factor on fit for the role.
+
+Stage of company. The role of the PM at a startup is far more likely to be responsible for “all the things,” whereas at a mature company their role will be more distinctly defined. (Banfield, Eriksson, and Walkingshaw’s book Product Leadership has a section that has a lot more detail on this topic.)
+Startup. Beyond discovery, definition, and shipping, PMs may also be responsible for pricing, marketing, support, and potentially even sales of the product. These PMs thrive in a scrappy environment and are comfortable with ambiguity and frequent changes to direction as the company works toward product-market fit and learns to operate at scale.
+Pro: PMs are likely to be more involved with company strategy, get exposure to senior leadership and the board, are able to take more risks, and make a bigger impact. They also have more influence and authority over company resources.
+Con: There’s typically little to no mentorship, role models, or best practices within the company. (You may have to seek it externally.) Budgets are typically tight, and PMs may not have the requisite experience to succeed at some of the things they’re tasked to do.
+Mature company. The PM may have a narrower scope and have coworkers who handle pricing, go-to-market strategies, and so on. And they are likely to be part of a larger team of product managers.
+Pro: PMs are more likely to have mentoring and role models, as well as development standards and best practices. Close association with an engineering team can create strong relationships over time, which is great for long-term impact and career growth. And if the product has market fit, there is an established customer base and performance baseline to work from, versus guessing until you get it right.
+Con: PMs have less exposure to company strategy and are just one of many voices of the customer. They can get “lost” in the system and have to deal with more politics and tight budgets.
+Founder/CTO/CEO relationship with PM. Especially in earlier-stage companies, it’s important to know how involved the founder/CEO/CTO is in the product process. If they are deeply involved, the PM role may play more of a support role, to flesh out their ideas or validate concepts with customers, versus conceiving and driving ideas of their own. This can be great fun for some PMs who enjoy partnering with founders and C-level executives and collaborating on the product evolution. But for other PMs, it can be very frustrating if they prefer to take more ownership of the product direction. It can also be challenging if the more technical founders or C-levels prefer working directly with engineers. This can leave PMs out of the loop or undermined (sometimes unintentionally), causing not just personal frustrations but delays. When considering a PM role that may work closely with the founding leadership team, be sure to find out their expectations of the PM function and decide whether this is the right fit with your interests.
+Subscribe to our Weekly Newsletter
+The Insider
+A letter from the editor of HBR.org with personal recommendations of the stories you shouldn't miss.
+Sign Up
+There are, of course, many other factors to consider for any role, such as the type of product you are building (B2B, B2C, industry), the people with whom you’ll work, the overall company culture (diverse, inclusive, flexible work hours, remote culture), and, of course, the compensation and benefits. There are also lots of articles on hiring product managers to get perspective on what the hiring managers are looking for — I especially recommend my friend Ken Norton’s piece “How to Hire a Product Manager.” However, if you are striving to be a great product manager, consider all of the above before signing on to your next gig. Developing core competencies will be an ongoing activity throughout your career, and leveraging EQ will ensure a more positive experience. But where you work, how they work, and who you work with and for will ultimately determine your long-term success.
+
+A version of this article first appeared on the author’s website.
+
+
+
+
+
+
+
+
+
+
+What is the role of a product manager?
+Product managers guide the success of a product and lead the cross-functional team that is responsible for continuously improving it. This is an important organizational role — especially in technology companies. Product managers provide the expertise needed to lead and make strategic product decisions.
+In short, great product managers build great products. You are responsible for a range of strategic to tactical work — setting strategy, collecting and reviewing product ideas, and prioritizing what to build. You play a central role within product teams — aligning engineering, marketing, sales, and support around the work that will bring the most value to customers.
+It has been said that product managers are "mini CEOs" of a product, but that is not quite accurate. Rather, you are a leader within your organization who excels at developing a shared understanding of customer problems and how to solve them.
+
+
+
+
+A product manager sets the strategy, roadmap, and feature definition for a product or product line. The role may also include product marketing, forecasting, and profit and loss (P&L) responsibilities. Product managers analyze market and competitive conditions, laying out a product vision that is differentiated and delivers unique value based on customer demands.
+Product development is invigorating. When you feel a real sense of responsibility and commitment to your product, it can inspire you to build with conviction and help you find deep satisfaction in your work as a product manager.
+Related:
+What skills are required to be a product manager?
+What does a product manager do each day?
+"Product vs. project. The amount of confusion these two words can cause never surprises me. If you are a product manager, you know where I am going with this. I bet you have been called a 'project manager' more times than you can count. And the confusion only grows in companies where there is a product owner on the team too."
+Brian de Haaff
+Aha! co-founder and CEO
+
+Types of product managers
+There are many different types of product management roles. Every organization will define the positions a bit differently — based on offerings, customers, and product strategy. Generally speaking, the larger the company and its portfolio, the more product leaders it may require.
+Product managers often grow from positions in other departments — such as marketing, sales, engineering, and project management. Often, what differentiates you as a product manager will stem from relevant experiences in previous roles. For example, an engineer who switches to a technical product manager role brings a deep understanding of the product development process. Your past experience would help you communicate effectively with the development team and write clear product requirements.
+The table below summarizes some of the most common product manager roles:
+Job title
+Description
+Product manager
+Manages the entire product lifecycle and product roadmap.
+Works with:
+Internal stakeholders — engineering, sales, marketing, customer success, legal, leadership, and board members.
+External stakeholders — customers, end-users, and partners.
+Product owner
+Supports the development team by prioritizing the product backlog and creating user stories.
+Works with:
+Internal stakeholders — developers, designers, and technical managers.
+Growth product manager
+Delivers business outcomes across growth, customer retention, revenue, etc.
+Works with:
+Internal stakeholders — business leaders.
+Technical product manager
+Collaborates with the engineering team on core specifications and product functionality.
+Works with:
+Internal stakeholders — developers, designers, and technical managers.
+Platform product manager
+Creates and optimizes technical components shared across multiple products.
+Works with:
+Internal stakeholders — engineering.
+While each product manager role is a bit different, they all come down to promoting a clear understanding of your organization's goals and responsibilities so product teams can stay aligned on creating value for customers and the business.
+Related:
+What are some product management job titles?
+How do product managers work with other teams?
+Product owners vs. product managers
+
+Responsibilities of a product manager
+Let's zero in on a product manager's core responsibilities. Although the scope of work is broad, your day-to-day responsibilities can typically be broken down into the following six areas:
+1. Setting strategy
+At the highest level, you are responsible for setting your product's vision and strategic direction. You need to be able to clearly articulate the business case of a given initiative or feature and then connect back to your product vision and goals. Doing so helps your team understand the "why" behind what you are building.
+Strategic planning involves laying out major areas of investment so you can prioritize what matters most and achieve your product goals. You also own the product roadmap — a timeline that visualizes what you will deliver and when.
+
+
+
+2. Defining releases
+Product managers translate product strategy into planned work — defining what you will build and when you will launch it. This holds true no matter which development methodology your engineering team uses.
+You are responsible for release process. You are also responsible for managing cross-functional dependencies — all of the activities required to bring new products, features, and functionality to market. This involves bridging gaps between different functions within the company and aligning key teams including marketing, sales, and customer support.
+3. Evaluating ideas
+Ideas fuel successful products. Product managers are responsible for crowdsourcing, developing, and curating ideas that will deliver value to customers. You own the organization's idea management process, determining which ideas should be promoted to your backlog and propelling product strategy forward.
+To this end, product managers also ensure that requests are integrated into the product planning and development process. You communicate the status of ideas back to your customers, partners, and internal teammates who submitted them — closing the feedback loop. 
+
+4. Prioritizing features
+Product managers are responsible for defining feature requirements and the desired user experience. You work closely with engineering on the technical specifications, and ensure that cross-functional teams have all of the information they need to deliver a complete product to market.
+You prioritize features by ranking them against strategic goals and initiatives. Product managers have to make difficult trade-off decisions based on the value a new feature will deliver to your customers and the business.
+At Aha! we call this value-based product development. This approach helps product teams prioritize features that create the most value for the least amount of effort. Estimating the value of new functionality is generally based on your strategic goals, the team effort required, and future customer benefit. The purpose is to look beyond daily tactical discussions and elevate your thinking to the overall worth of what you are building.
+
+5. Building and sharing strategic roadmaps
+Creating and updating your product roadmap is one of the most powerful communication tools you have as a product manager. A product roadmap visualizes how your product will achieve your business objectives and helps keep work on track.
+There are many different types of roadmaps you can create depending on who you are presenting to and what you are trying to convey. Executives tend to want to know the high-level plans, while engineers and designers will need to understand the exact timing and sequencing of important work.
+
+
+6. Analyzing and reporting on progress
+Great product managers are laser-focused on results — for customers and for the business. You need a complete view of the team's progress towards goals to understand how your product is performing.
+This is an example list of questions that help track team progress
+Team efficiency
+How are the most important initiatives progressing?
+Which inefficiencies or blockers need to be addressed?
+Are we satisfied with team velocity?
+Are there any capacity issues that need to be resolved?
+Product usage
+What product features are the most and least used?
+Where are users getting stuck and abandoning our offering?
+What percentage of trials convert to paid accounts?
+How many accounts are growing vs. how many are shrinking?
+Answering these questions well requires deep curiosity — you need to dig into both qualitative and quantitative data. Begin by tracking team progress with sprint burndown charts and velocity reports. And you can evaluate product usage with adoption and retention reports. No matter what kind of report you select, make sure it tells an accurate story of how you are meeting your product goals.
+
+
+Tips for new product managers
+If you are just starting out as a product manager or have moved into a new role, the breadth of your responsibilities can be overwhelming. There is a lot to do — so take it in stride. Here are some tips on how to be a great product manager in your first 30 days:
+Start with strategy
+Each product decision, even early on, should be rooted in strategy. Do not jump into decision-making impulsively. Dig into the existing product goals and make sure you understand what you are trying to achieve.
+Get to know your customers
+Empathy is essential for successful product managers. Spend time understanding the problems your product solves for customers. Sit in on sales calls, make time to meet real customers, and analyze all of the information and data available to you. Deep understanding takes more than 30 days — but you can make a lot of progress by showing curiosity in the first month.
+Build relationships with your team
+You will not find success on your own. Product managers rely on the development team and product designers to build the right product. And you lean on marketing and sales to successfully bring it to market. Build genuine connections with your teammates — strong relationships foster trust and better communication.
+Learn to say no
+You will get plenty of requests from every corner of your organization — a plea for a new feature that will help close a deal, a request to fix a bug now, or an idea for an improvement. On top of that, you will hear from customers too. You cannot please everyone all at once. Develop a prioritization framework and get comfortable saying "no" or "not now."
+Be patient with yourself
+It takes time and patience to grow into a new role and find lasting success. Be ready to learn the same lessons on repeat and to ask a lot of questions. Allow yourself the time you need to become the go-to product expert at your organization.
+
+Templates for getting started as a product manager
+Whether you are searching for a new job or trying to deepen your understanding of customers, templates can give you direction and help you move quickly. Take a look at this job interview template geared towards product managers — with common questions that you will likely be asked during interviews, as well as questions you can ask your interviewer.
+Here are a few more product manager templates to explore:
+Product manager resume templates
+Customer research templates
+Product roadmap templates
+Product management meeting templates
+
+
+I can’t count the number of times I’ve been asked: “What is a product manager, and how do I become one?”
+
+I’m always fascinated by this question, because the person who’s asking is already interested in product management, even though they have no idea what it is.
+
+That interest makes sense. Product managers are amongst the highest-compensated, most well-respected professions in the world today, even though they’re among the least understood.
+
+In business schools around the world, MBA students have set their sights on product management as their dream job. Colleges are starting to create new majors and programs focused solely on product management due to high demand.
+
+Part of the challenge with describing what a product manager does is that the role of a product manager is inherently poorly defined. 
+
+What is a Product Manager?
+A product manager connects business strategy, design knowledge, and customer needs in order to develop a product that is relevant, feasible, and valuable. PMs are focused on optimizing a product to achieve the business goals and user necessities while maximizing return on investment.
+
+The product manager manages all of the white space around the product. Think of the product manager as connective tissue – they tackle everything that falls outside of the bounds of any of the three core groups.
+
+
+
+Because every product has a different constellation of customers, businesses, and developers, that every product manager is inherently different, because the type of white space that they’ll occupy is different.
+
+As an example, an API product manager might have customers who are all engineers. That might mean that the product manager needs to be much better at technical skills.
+
+As a different example, a consumer product manager might be serving millions of customers, and therefore needs to be highly quantitative.
+
+As yet another example, a B2B product manager might only serve a dozen total customers, and therefore needs to be highly skilled at change management, negotiations, and objection handling.
+
+Even within the same company, you might see a dazzling variety of product managers, because each product manager is handling a fundamentally different problem space. They’re working with different kinds of customers, different kinds of business stakeholders, and different kinds of development teams.
+
+To truly further under what a product manager does, let’s dive into the theory of product management.
+
+The Theory of Product Management
+Let’s use a diagram to illustrate a world with no product managers.
+
+
+
+In a world with no product managers, we can generalize all people to be in one of three groups: the customer, the business, and the development team.
+
+The customer is someone who is experiencing pain. They’re willing to pay time, money, or both to have their pain addressed.
+
+The business is an organization that is focused on sustainably providing value to shareholders in the long run. It seeks to monetize goods and services so that it can employ people and create wealth for its owners.
+
+The development team consists of engineers and designers. They want to create something that they find meaningful, while also ensuring that it’s sustainable and maintainable over the long run.
+
+These three groups don’t typically get along well on their own.
+
+Customers and businesses regularly face conflict
+Customers would prefer to get goods and services for free. They pressure businesses into providing solutions for their specific pains, which may not be large enough opportunities for the business to survive in the long run.
+
+Businesses prefer that customers buy their existing products at high prices even if it doesn’t solve the customer’s pain, and businesses would love to devote as much attention as possible towards capturing new customers rather than serving existing ones.
+
+Customers and development teams regularly face conflict
+Customers want development teams to build things exactly the way that they spec it. If they want a blue button on the bottom left hand side of a page, they’ll push for the button to be there, even if it breaks existing engineering and design paradigms. Customers push for perceived solutions to their pains, even if those perceived solutions don’t actually address their pain.
+
+On the flip side, development teams want to build cool new things, but these new functionalities may not actually address the needs of the customer. Development teams want to have enough time to thoroughly QA their work, whereas customers push for accelerated timelines.
+
+Development teams and businesses regularly face conflict
+Businesses want development teams to act as feature factories – the more features they can ship, the more money the business can make.
+
+Development teams regularly push back against business timelines because they want to refactor the code for technical health, or they want to redesign the features for visual consistency.
+
+So much conflict. How do all of these conflicts get resolved?
+
+They get resolved through the product.
+
+
+
+The product is something that solves the customer’s pain, while enabling the business to be profitable, while being something that the development team is excited to build and can easily maintain. In other words, a great product solves the pains of the customer, the business, and the product development team.
+
+So, what about all of the white space around the product?
+
+That’s the product manager.
+
+Product Manager Job Description
+The role of the product manager is to serve as a multiplier. The role is really two jobs: coach and janitor.
+
+As a coach, you’re empowering stakeholders and teammates to deliver the highest value. You’re defining what problem to solve, for who, why, and when. You drive the product vision and you push your teams towards the north star of your vision.
+
+As a janitor, you’re unblocking teammates. You’re shielding them from blame and pressure, and you tackle high-value work that is low prestige.
+
+For example, product managers write product specs, meeting notes, and test cases. It’s not fun, but it’s critical to document our products so that everyone’s on the same page. Similarly, product managers need to deal with angry customers and with crisis management.
+
+You’ll work with folks of all kinds to create a powerful engine of experimentation, creativity, and improvement. You’re in charge of improving the development team and the business, and you’re in charge of keeping the customer happy.
+
+On top of that, you need to distill the following:
+
+Quantitative data from historical metrics
+Qualitative data from user research and customer feedback
+Market trends
+Competitive analysis, and more – all so that you can make the highest ROI decision available.
+From this distillation of information, it’s a product manager’s responsibility to prioritize products or features that their team should be focusing on as well as convincing their team and upper management to get on board with the vision that they’ve laid out based on their analysis and prioritization. A good product manager must also work with the rest of the team to lay out an actionable plan to execute these proposed ideas.
+
+Once it’s time for the team to build the product, a product manager must ensure that details are taken of, edge cases are accounted for, and make sure the product is tested and ready to ship on time.
+
+Even when the product is shipped, the job isn’t done. A product manager needs to determine the success of the product by understanding how customers interact with the product. This feedback gives product managers even more context and data for future iterations of the product and enables them to plan ongoing roadmaps.
+
+Product Manager Certification
+
+Product Manager Responsibilities
+Below are some of the tactical day-to-day responsibilities that a product manager must execute on.
+
+1. Stand Up Meetings
+If your startup runs an agile development process, you may hold “scrums” where the team gets together and talks about what they worked on yesterday, what they will be working on, and if there are any blockers preventing anyone from doing work.
+
+A good scrum master will be able to guide conversations and make sure no one gets too far into details of any particular task. The goal isn’t necessarily to solve any roadblocks during stand-up meetings but rather help the right team members be notified so that they can work on issues outside of the meeting.
+
+Product managers may need to serve as scrum masters, especially in lean organizations where separate scrum masters may not be available. It’s your job to ensure that your teams run smoothly.
+
+2. Talking to Customers
+Whether in person or through other mediums such as customer support tickets, phone, or video conferences, you should be spending time with your customers to understand that what your team is building is valuable for your customers. Time with customers will also help you plan upcoming features.
+
+3. Product Backlog Management
+You’re responsible for managing the product feature backlog and ensuring that that your team doesn’t have any time in between feature development. You need to prioritize which features your team will work on in upcoming sprints.
+
+4. Strategic Planning
+Product managers are in charge of determining not just the immediate next work items of the product, but also the long-term product strategy and vision. It’s critical to stay in sync with changes in the industry and in the competitive landscape, and it’s crucial that you have a stance on what the future will look like in your space.
+
+You’re responsible not just for the current performance of the product, but also for the future performance of the product in 1 year, 3 years, and 5 years from now. Your product management peers will expect you to have a vision for where you’re taking your product, and they’ll also expect that your vision will work well together with their visions for their products.
+
+5. Spec
+You’re responsible for comprehensive specs for new features and products. Part of the spec includes business goals, user stories, product requirements, and customer context. You’ll also be responsible for wireframes and user journeys as part of your spec. You’ll own the definition for what a good user experience looks like.
+
+On top of that, you’ll also review your specs with the rest of your development team in an iterative fashion. As you get more input from the engineering team, product team, and customers, you’ll continue to refine your spec until you decide it’s ready to be built.
+
+6. Meetings with Other Teams
+You’ll spend a significant chunk of your time in meetings. Depending on the size of the company, you’ll spend time with various cross-functional teams like sales, product marketing, and business development. You’ll also meet with your executive team to keep them up to date with your progress, or to pitch them on your vision for the product and for additional resources. Furthermore, you’ll meet with customers and users to understand their pains and to confirm whether your product is solving their needs.
+
+Why do you need to be in so many meetings? One of the core challenges of human psychology is that the most effective way to transmit information is through meetings. Even if you write solid emails, others may not pay attention to you. Live meetings are unfortunately some of the most powerful ways for you to transmit information and for you to receive information, even if they’re time-consuming.
+
+As a rule of thumb, you’ll be in back-to-back meetings during working hours (e.g. 9 AM to 5 PM), and you’ll need to find time outside of meetings to tackle your individual contributor work such as spec scoping, data analysis, and market research. Some product managers like to work in the early mornings, some like to work in the late evenings, and some like to work on weekends.
+
+7. Data Analysis
+Data is crucial to making well-informed product decisions so PMs should be able to understand and hopefully pull the data they need to run analyses. SQL and Excel are a must to run basic data analysis on the job. After all, if you don’t understand the data, you’ll struggle to identify what business value your product is meant to drive.
+
+8. Documentation
+Product managers are responsible for ensuring that information flows to the right people at the right time. Documentation is a core component of information flow hygiene. Strong product managers are efficient at gathering information from various teams and properly summarizing the most important information to be shared with appropriate stakeholders.
+
+You’re in charge of documenting release dates, release notes, user flows, caveats, meeting notes, and other kinds of critical organizational context.
+
+Critical Product Manager Skills
+Does this sound like a lot of work? It is, and we realize it can be overwhelming.
+
+That said, if you develop the following three core skills, you’ll thrive as a great product manager even while tackling the monumental workload of product management:
+
+Empathy and communication
+Grit and speed of learning
+Ruthless prioritization
+Empathy and communication are necessary because your job is fundamentally focused on filling the white space.
+
+You won’t know what space is most critical to fill unless you fully understand the customer, the business, and the development team. On top of that, you need to serve as mediator for all three groups, which is why communication is critical.
+
+You need both empathy and communication at the same time – one without the other isn’t going to get you anywhere.
+
+If you’re empathetic but you can’t communicate, you won’t be able to share context between the three groups, and that will lead to a breakdown in trust. If you’re communicative but you don’t have empathy, you’ll also destroy trust because you won’t shape the message to target the needs of each group.
+
+Grit and speed of learning are necessary because product management is inherently an infinite space.
+
+You need to have grit because you’re going to face difficult decisions every day, and you’ll face conflict from all three groups all of the time. You need to be convicted in your mission and your passion, and you need to be the spiritual cheerleader and representative for all three groups even when times are tough.
+
+You need to learn quickly because customers, businesses, and development teams are changing all of the time. New industry trends, new competitors, new technologies, and even new hires might completely change the way in which you work.
+
+You need both grit and speed of learning at the same time – one without the other is relatively useless to you. If you only have grit without speed of learning, you’ll be too stubborn and you won’t change your mind fast enough when evidence builds up against you. And if you only have speed of learning without grit, you’ll burn out too quickly and you won’t stick around for the long run.
+
+Ruthless prioritization is necessary because product management is infinite.
+
+You have thousands of decisions to make every day, because product managers are all about decision making. Should you send that message? If so, to who, and when, and how, and with what tone and content? Should you take this customer call? If so, what’s the objective? If not, how will you turn them down tactfully?
+
+If you can’t quickly identify the key factors that will make or break your company, you’ll drown from analysis paralysis, or you’ll be too overwhelmed with inbound work. You have to know when to decline work and when to delegate work – you can’t do it all yourself, so prioritizing your work is crucial.
+
+Types of Product Managers
+There are many different flavors of product management, especially since product manager responsibilities depend greatly on the industry, company, business model, and product.
+
+Due to this variability, there is a wide range of day-to-day activities, but ultimately a product manager is still responsible for doing whatever it takes to collaborate with multiple teams.
+
+Here are a handful of factors that differentiate product managers:
+
+Distribution model: B2C vs. B2B vs. B2B2C
+Funding: External investors vs. bootstrapped
+Platform: Web vs. mobile vs. software vs. hardware
+Regulation: Highly regulated vs. unregulated industries
+size: Large vs. vs. small companies
+Positioning: Internal (data, platform, API) vs. external
+Customer attributes: Tech-savvy users vs. non-tech savvy users, age, geography
+Lifecycle: Mature product vs. new product
+Again, the nature of the role of a product manager comes from the customer, the type of product, and the development team.
+
+Even within the same company, different product managers may have vastly different job descriptions from one another, because the kinds of customers they serve and the kinds of development teams they work with might be totally different.
+
+In a general manner, aspiring product managers can expect to be involved in decisions involving the products’ “when”, “what”, and “how”. For this reason, some PMs can be considered the CEO of the product. 
+
+That requires a vast spec of knowledge, which includes some technical know-how and a deep understanding of product leadership.
+
+ 
+What Does a Product Manager Do?
+The Wall Street Journal recently called product manager (PM for short) the MBA graduate’s dream job. (There are many paths into product management, of which the MBA path gets much attention.) I’ve been in product management for almost a decade at companies such as Mint, Chegg, Udacity, and ClassPass, and I’ve had nearly a hundred conversations with MBA near or recent graduates looking to learn about product management. I generally start by asking “What is a product manager? What do they do?” Most respond that product managers help organizations decide what products to build and help teams deliver those products — and that’s about as detailed as the students get. Their lack of clarity is fair, that’s why they reach out to me. Yet such confusion is rampant across the product management industry itself.
+In 2015 I joined the tech company XO Group to run its Product organization, including twenty-odd people with the title Product Manager. In my first week I asked most PMs the same simple question: “What is a product manager? What do they do?” and received twenty-odd different answers. Software engineers, accountants, and salespeople don’t share such confusion in their role definitions, why do product managers? One of my first actions as the new team leader was to define a product manager’s role, which I share below and hope can be helpful to you.
+For one step further detail, see this updated article on specific Product Manager skills by level.
+Product Manager Job Description
+Digital product management has emerged as a new function in the past 15 years with the growth of tech companies and transformation of non-tech companies into tech companies, all delivering digital products. In the digital product world of tremendous consumer choice, low switching costs, social sharing, ratings, reviews, and recommendations, making great products matters more than ever to keep a user’s attention. Product management is a key function in delivering high quality digital products; at a 10,000 foot view, product management can support figuring out what products to make, ensuring that those products get made (usually involving digital design and software engineering), and reporting back on how users respond to products — in short, Strategy, Execution, and User Understanding.
+Part of what makes the title Product Manager so confusing is that organizations don’t always want PMs to do all three roles. In some organizations, the strategy/decision making happens without product managers, instead by executives or a different function like sales or marketing, who then direct the rest of the team including PMs. In some companies, a separate group of individuals called project managers take up the day-to-day execution while product managers drive strategy and research. And in some larger organizations, the user research function sits as its own team. I’ve noticed that New York tech companies often keep strategy at the executive level and leave execution/project management, and sometimes user research, to the product managers.
+The Product Manager role is further complicated by how much decision-making power the product management function gets in the organization. Within the three responsibilities of strategy, execution, and user understanding, does the product manager give orders, take orders, or something in between? For example, the most empowered product manager might give orders for all three responsibilities. The least empowered product manager might take only take orders while performing project management. (This latter role should have the title Project Manager, but I’ve seen many product manager positions fit this description.) I personally prefer product managers in the middle of this spectrum — neither boss nor order taker — as the facilitator ensuring that the group gets to the best answer with all feeling included.
+What are the Key Skills of Product Management?
+I subscribe to the product management school that empowers PMs with facilitating all three of strategy, execution, and user understanding. In the modern tech company’s workflow, this type of product manager can best help the organization figure out what to build, ensure successful delivery, and incorporate user learning back into the company to further improve the strategy and product. Many have written about this strategic product management role, one of the earliest and most influential being Marty Cagan who helped lead product management at Netscape, AOL, and eBay though the early 2000s. Though the product management function seems to become clearer every year, I still encounter widespread confusion in 2016, even within my own company. I articulate product management as a series of six core skills that tie to the three major roles of product management: Role of Strategy = Skill of Strategic Thinking
+Role of Execution = Skills of Sufficient Technicals, Collaboration, Communication, and Detail Orientation
+Role of User Understanding = Skill of User Science & Empathy.
+Strategy:
+1. Strategic Thinking:
+Great PMs help teams find and prioritize high potential ideas to work on.
+Product managers often take on the role of helping their teams make good strategic decisions, such as finding options and then prioritizing options. Valuable ideas come from many places — individual inspiration, classical strategy, competitive analysis, offline analogs, and more — though teams require rigor to find ideas from all sources. Teams can struggle even more choosing amongst those options without a solid framework. For example, I’ve sat with several different teams trying to choose between creating an app, adding a B2B offering, going international, or just making the core product work better. How to decide? If teams fail to solve tough questions, then either the team may work on unimportant problems and fail, or be told what to do by someone else, reducing the team’s autonomy and morale.
+Execution:
+2. Sufficient Technicals:
+Great PMs thrive in their and their partners’ technical environments.
+Product managers need to be as technically proficient as makes sense for the product and team, typically so the PM can better understand the context and possibilities of the product space. For example, working on e-commerce requires understanding payment technologies to make good decisions. Today many product managers need to understand data thinking and use tools such as Google Analytics, Mixpanel, Tableau, Optimizely, etc. that require a base level of technical thinking or training.
+Additionally, product managers can be better partners to, and command more respect from, engineering and design partners by understanding the technical limitations of their respective worlds, such how product ideas may impact memory usage or processing time for engineers and pattern libraries and usability rules for designers. Product managers who fail to understand their partners’ world risk losing their partners’ trust.
+3. Collaboration:
+Great PMs help their teams perform at a high level internally and across the organization.
+Product managers rely on working well through others to help their teams succeed. (Note: this trait is often considered “leadership.”) Often a product manager will work on a team with one designer and three to six engineers. High performing teams can be defined many ways, two of my favorites being Tuckman’s Forming-Storming-Norming-Performing model and Lencioni’s Five Dysfunctions model, but most definitions require an environment of shared goals, expectations, trust, and understanding. Successful product managers exhibit leadership and emotional intelligence to help their teams work well together and achieve a high performing state. If the designer and the engineer struggle to work well together, the product manager should feel accountable for fixing the challenge somehow, to create a successful team environment.
+Similarly, teams often collaborate with other teams, or with external partners, and successful product managers help teams work well with others too. One specific valuable collaborative skill is the ability to identify and defuse or avoid unnecessary conflict within and across groups (typically around ownership or dependencies), while proactively engaging in conflict of ideas (that helps teams get to better answers).
+This Product Management article on negotiation provides a deep dive on this important piece of collaboration.
+4. Communication:
+Great PMs ensure that others successfully understand what they need to know.
+Product managers often serve to keep internal and external team members up-to-date, both digitally (email, chat, wiki, etc.) and physically (meetings, presentations). Good communication effectively shares the information that an organization needs to function well. When different parts of an organization don’t understand each other, important information is lost, time sensitive execution suffers mistakes, and both performance and morale sink. Poor communication, resulting in mismatched expectations and deliverables, is often at fault at surprising and derailing an organization that is otherwise moving in a sound direction.
+This Product Management article on product release blogs provides a concrete tool for strong cross-organization communication.
+5. Detail Orientation:
+Great PMs help teams achieve high velocity and quality by paying attention to details that matter.
+Product managers with good detail orientation help teams continuously improve by finding missing important details and fixing issues early. This sense of ownership and quality control helps teams stay outcome oriented (i.e. get high quality results) rather than output oriented (i.e. release something on time.) For example, the longer a team takes to fix an important bug, the more expensive it is do the fix — usually finding and fixing issues is cheaper in design phase than in engineering phase, cheaper in engineering planning phase than in engineering testing phase, cheaper before launch than after launch. Less tenured product managers often make their biggest mistakes forgetting important details throughout the process that have big consequences (often resulting in product failure) such as considering all possible ways their changes touch the overall product, while thoughtful PMs generally learn when mistakes tend to happen and adjust how they work.
+User Understanding:
+6. User Science & Empathy:
+Great PMs employ user science to identify high potential user problems and successfully evaluate a product’s user impact.
+Ultimately, products succeed by solving users’ problems. While this phrase sounds simple, humans are very complex. Building great products is HARD, and organizations rarely build new products that deeply impact their users. The better that product managers, teams, and organizations understand their users, the more likely new products will solve user problems.
+Further, understanding and spending time with users is often the most rewarding part of any role, and especially of being a product manager, by feeling connecting to the purpose of your company and feeling a personal impact on others. Ask a product manager what their favorite part of their job is, you’ll often here “talking to users” or “seeing the look on a user’s face when she uses my product.”
+Understanding users begins with user empathy, being able to feel what a target user feels. This skill helps a product manager begin to predict how a user may react to a new product. By talking to a few target users, great PMs can quickly transform their mindsets to that of any user type — young or old, female or male, etc. — and begin to feel like those users do. Empathy can help teams make accurate decisions with rough precision.
+User science is the rigorous scientific field of analyzing and measuring users to understand them accurately with relatively high precision. Researchers can measure user intent (what they think or say they will do) and user action (what they actually do) — and intent rarely matches action. Below are some examples of user science tools:
+
+Of the six core product manager skills, user science is the only one that needs to be studied and developed explicitly, like any scientific skill.
+This Product Management article on user science provides a deep dive on the powerful skill.
+How to Become a Product Manager
+People (not just MBAs) often ask me how to get into product management, and I reference the six skills above. (For a detailed skill list per level, see this article.) The first five skills are found and can be developed and demonstrated in many different roles — marketing, engineering, business analysis, and general management (including entrepreneurship) to name a few. Great project management professionals explicitly develop the four execution skills. User science is the hardest skill to develop without being a product manager, though increasingly other professions use or specialize in user science, and user science educational programs are growing. (Early career product managers aren’t expected to know user science, but should show user empathy and potential for learning the science.)
+In my first few weeks at XO Group, I shared this perspective on the product manager role with the team. We’ve since incorporated these six skills into XO Group’s product management personal development plans, regular “product school” discussions, level expectations, semi-annual evaluations, and hiring/interviewing plans. For those of you interviewing to be product managers at any organization, I encourage you to ask the interviewer how they view their product managers and match the answer against your goals. Do their PMs help drive team strategy or only project management? Do their PMs perform user science? Are their PMs order takers, givers, or facilitators?
+Many companies get strategic product management right — Intuit, eBay, LinkedIn, Amazon, Expedia (and I hope XO Group!) to name a few — and many have a way to go to support product managers having high impact on their users. What happens when companies build great products that meet their users’ needs? Good things. Ask a product manager her favorite metric, and she’ll probably say Net Promoter Score (NPS), which measures a user’s likelihood of recommending a product and is often used as a customer satisfaction score. Companies with high NPS have been shown to outperform their peers. Great product managers help create stronger strategy, stronger execution, and stronger user understanding, all of which strengthens companies across their key metrics. Of these three, user insight is my favorite — when PMs especially understand and evangelize their users, the entire company’s sense of purpose and meaning grows, and user and company alike benefit. Getting product management right matters — so for companies and PMs alike — keep your product manager expectations for strategic thinking, execution, and user understanding high!
+ 
